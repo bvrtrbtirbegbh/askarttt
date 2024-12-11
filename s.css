@@ -1,0 +1,1258 @@
+h1 {
+    text-align: center;
+    font-size: 40px
+    
+}
+
+
+.avatar {
+    font-size: 28px;
+        
+}
+
+.avc {
+    width: 570px;
+    border-radius: 45px;
+    box-shadow: 5px 5px 12px;
+}
+.fff {
+    font-size: 24px;
+}
+.ddd {
+    font-size: 28px;
+}
+
+h3 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #35424a;
+   
+}
+.ee {
+    font-size: 30px;
+}
+#nino {
+    animation-name: nino;
+    animation-duration: 3s;
+    animation: nino 5s linear infinite;
+    text-align: center;
+
+}
+@keyframes nino{
+    100%{
+        transform: translate(-100%, 0);
+    }
+}
+.ffff {
+    box-shadow: 5px 5px 13px;
+    border-radius: 40px;
+    transition-duration: 500ms;
+    transition: all;
+    transition-timing-function: ease;
+    transition: width;
+    opacity: 90%;
+}
+.ffff:hover {
+    transform: scale(1,2);
+
+}
+.ppp {
+
+    display: flex;         
+    align-items: center;   
+}
+.ppp img {
+    max-width: 550px;     
+    margin-right: 20px;   
+}
+.ooo {
+
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
+.s {
+    border-radius: 10px;
+    box-shadow: 2px 2px 9px;
+    border-width: 10px;
+    
+}
+.pp {
+    display: flex;         
+    align-items: center;   
+}
+.pp img {
+    max-width: 550px;     
+    margin-right: 20px;   
+}
+.xx {
+    box-shadow: 3px 3px 10px;
+    border-radius: 40px;
+}
+ul.menu {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+    background-color: #333;
+    text-align: center;
+}
+
+ul.menu li {
+    display: inline-block; 
+}
+
+ul.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+ul.menu li a:hover {
+    background-color: #111; 
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.askar {
+
+    border-radius: 10px;
+    border-width: 10px;
+
+
+}
+.zz {
+    box-shadow: 2px 2px 7px;
+    border-radius: 10px;
+    transition-duration: 50000ms;
+    transition-property: transform, bacground-color;
+    transition-duration: 500ms;
+    transition: all;
+    transition-timing-function: ease;
+    transition: width;
+    opacity: 90%;
+}
+.zz:hover {
+    background-color: aqua;
+    transform: scale(1,2);
+}
+
+.cc {
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
+.askar1 {
+    display: flex;
+    gap: 150px;
+    opacity: 50%;
+    
+}
+.askar1:hover {
+    opacity: 1;
+}
+.askar1 figure {
+    text-align: center;
+
+ 
+
+}
+
+.askar1 img {
+    width: 300px;
+
+
+
+}
+.ll {
+    border-radius: 20px;
+    box-shadow: 3px 3px 12px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+footer form {
+    margin-top: 10px;
+}
+footer input[type="email"] {
+    padding: 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 3px;
+}
+footer button {
+    padding: 10px 15px;
+    background-color: #b71c1c;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+footer button:hover {
+    background-color: #ffd600; 
+}
+.op {
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px;
+    transition-duration: 50000ms;
+    transition-property: transform, bacground-color;
+    transition-duration: 500ms;
+    transition-duration: 500ms;
+    transition: all;
+    transition-timing-function: ease;
+    transition: width;
+    opacity: 90%;
+}
+.op:hover{
+    transform: scale(1,2);
+}
+#as {
+    text-shadow: 9px 9px 12px;
+
+
+}
+#qw {
+    color: blue;
+    
+    
+}
+#a {
+    text-shadow: 3px 3px 12px;
+}
+header {
+  
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: aqua;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8%;
+}
+header .tay {
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    transition: 5s;
+}
+header .tay:hover {
+    transform: scale(1,2);
+}
+header nav ul li {
+    position: relative;
+    float: left;
+}
+header nav ul li a {
+    padding: 15px;
+    color: black;
+    font-size: 16px;
+    display: block;
+}
+header nav ul li a:hover {
+    background: black;
+    color: aliceblue;
+}
+nav ul li ul {
+    position: absolute;
+    left: 10;
+    width: 180px;
+    background: #fff;
+    display: none;
+}
+nav ul li ul li {
+    width: 100%;
+    border: 1px solid;
+    
+}
+nav ul li ul li ul {
+    left: 180px;
+    top: 0;
+}
+nav ul li:hover > ul {
+    display: initial;
+}
+.nino {
+    margin: 200px;
+    position: relative;
+    top: 200px;
+}
+.progress-bar {
+    margin-left: 2cm;
+    margin-right: 1cm;
+     padding-left: 1.5cm;
+    width: 90%;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    margin: 10px 0;
+    height: 20px;
+    overflow: hidden;
+}
+.progress {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    height: 100%;
+    border-radius: 8px;
+    animation: fill-bar linear forwards infinite;
+}
+.progress.blue {
+    background-color: #4285f4;
+    animation-duration: 5s; 
+}
+
+.progress.green {
+    background-color: #34a853;
+    animation-duration: 4s;
+}
+
+.progress.cyan {
+    background-color: #1da1f2;
+    animation-duration: 3s;
+}
+
+.progress.yellow {
+    background-color: #fbbc05;
+    animation-duration: 2s;
+}
+
+.progress.red {
+    background-color: #ea4335;
+    animation-duration: 1s;
+}
+
+@keyframes fill-bar {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    top: 0;
+    left: -300px;
+    background-color: #333;
+    overflow-x: hidden;
+    transition: all 0.3s ease;
+    z-index: 999;
+    padding-top: 60px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: background 0.3s;
+}
+
+.sidebar ul li a:hover {
+    background-color:#575757;
+}
+
+.menu-btn {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+#menuToggle:checked ~ .sidebar {
+    left: 0;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 998;
+    transition: opacity 0.3s;
+}
+
+#menuToggle:checked ~ .overlay {
+    display: block;
+}
+.zxc {
+    background-color: blues;
+
+}
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    top: 0;
+    left: -300px;
+    background-color: #333;
+    overflow-x: hidden;
+    transition: all 0.3s ease;
+    z-index: 999;
+    padding-top: 60px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: background 0.3s;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#menu-toggle {
+    display: none; 
+}
+
+
+.menu-label {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    z-index: 1000;
+    transition: background-color 0.3s;
+}
+
+.menu-label:hover {
+    background-color: #0056b3;
+}
+
+
+.sidebar {
+    width: 250px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: -250px; 
+    transition: left 0.3s ease; 
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    z-index: 1001;
+}
+
+
+#menu-toggle:checked ~ .sidebar {
+    left: 0; 
+}
+
+.sidebar h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.sidebar ul li a:hover {
+    color: #ff6347; 
+}
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none; 
+    z-index: 1000;
+}
+
+#menu-toggle:checked ~ .overlay {
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    background-color:#575757;
+}
+
+.menu-btn {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+#menuToggle:checked ~ .sidebar {
+    left: 0;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 998;
+    transition: opacity 0.3s;
+}
+
+#menuToggle:checked ~ .overlay {
+    display: block;
+}
+@media (max-width: 992px) {
+    body {
+        font-size: 14px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .product-card {
+        width: 45%; 
+    }
+
+    .progress-container {
+        margin: 15px 0;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        padding: 5px 10px;
+        align-items: center;
+    }
+
+    .product-card {
+        width: 80%; 
+        font-size: 14px;
+    }
+
+    .sidebar {
+        width: 70%; 
+    }
+
+    .share-container {
+        bottom: 15px;
+        right: 10px;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .header h1 {
+        font-size: 18px;
+    }
+
+    .navbar {
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+
+    .navbar a {
+        padding: 5px 10px;
+    }
+
+    .product-card {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    .progress-container {
+        height: 4px;
+    }
+
+    .sidebar {
+        width: 60%; 
+    }
+
+    .share-container {
+        bottom: 10px;
+        right: 5px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+    .sidebar-button {
+        font-size: 18px;
+        padding: 5px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .menu-label {
+        font-size: 14px;
+        padding: 6px 12px; /
+    }
+
+    .sidebar {
+        width: 180px; 
+    }
+
+    .sidebar h2 {
+        font-size: 18px;
+    }
+
+    .sidebar ul li a {
+        font-size: 14px;
+    }
+
+    .main-content h1 {
+        font-size: 24px;
+    }
+
+    .main-content p {
+        font-size: 14px;
+    }
+}
+.share-button {
+    position: relative;
+    display: inline-block;
+}
+
+.main-button {
+    background-color: #00aaff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.share-menu {
+    display: none;
+    position: absolute;
+    top: -10px;
+    left: 60px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    z-index: 10;
+}
+
+.share-menu a {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    text-decoration: none;
+    color: #333;
+}
+
+.share-menu a img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.share-menu a:hover {
+    background: #f0f0f0;
+    border-radius: 5px;
+}
+
+.share-button:hover .share-menu {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+.btn {
+    position: absolute;
+    right: 20px;
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05); 
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2c3e50;
+    min-width: 160px;
+    border-radius: 5px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    background-color: chartreuse;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #FF69B4;
+}
+
+
+
+#progress-bar-section {
+    margin: 20px;
+}
+
+.progress-container {
+    width: 100%;
+    background-color: #ddd;
+    height: 10px; 
+    margin-bottom: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%; 
+    width: 0; 
+    animation: loadProgress linear ; 
+}
+.progress-bar:hover{
+    animation-play-state: paused;
+}
+
+.progress-bar.blue {
+    background-color: #3498db;
+    animation-duration: 5s; 
+    animation-delay: 0s; 
+}
+
+.progress-bar.green {
+    background-color: #27ae60;
+    animation-duration: 4s; 
+    animation-delay: 1s; 
+}
+
+.progress-bar.cyan {
+    background-color: #1abc9c;
+    animation-duration: 3s; 
+    animation-delay: 2s; 
+}
+
+.progress-bar.yellow {
+    background-color: #f1c40f;
+    animation-duration: 2s; 
+    animation-delay: 3s;
+}
+
+.progress-bar.red {
+    background-color: #e74c3c;
+    animation-duration: 1s; 
+    animation-delay: 4s; 
+}
+
+@keyframes loadProgress {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%; 
+    }
+}
+
+
+
+.cards-container {
+    display: flex;
+    justify-content: space-around;
+   margin-top: 4px;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, opacity 0.3s;
+    width: 250px;
+    text-align: center;
+    margin: 10px;
+    opacity: 0.9;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+    opacity: 1;
+   
+}
+
+.product-card img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.card-1 {
+    opacity: 0.3;
+     
+}
+.card-1:hover{
+     transform: rotate(360deg);
+}
+
+.card-2 {
+    opacity: 0.5;
+}
+.card-2:hover{
+    filter: grayscale(100%);
+}
+
+.card-3 {
+    opacity: 0.7;
+}
+.card-3:hover{
+    transform: translate(90px);
+}
+
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #34495e;
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(-300px);
+    z-index: 1000;
+}
+
+.sidebar-menu a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.sidebar-menu a:hover {
+    background-color: purple;
+}
+
+
+.sidebar-toggle:checked ~ .sidebar {
+    transform: translateX(0);
+}
+
+
+.sidebar-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #2ecc71;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 999;
+}
+
+
+.sidebar-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.sidebar-toggle {
+    display: none;
+}
+
+.search-bar {
+    margin-top: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block; 
+    cursor: pointer; 
+}
+
+
+.dropdown a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown a:hover {
+    background-color: hotpink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.share-container {
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    display: inline-block;
+    text-align: right;
+}
+
+
+.share-checkbox {
+    display: none;
+}
+
+
+.share-button {
+    background-color: #00aaff;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.share-button:hover {
+    background-color: #0088cc;
+}
+
+
+.share-menu {
+    display: none;
+    position: absolute;
+    bottom: 60px;
+    right: 0;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding: 10px;
+    z-index: 10;
+    text-align: left;
+}
+
+
+.share-checkbox:checked + .share-button + .share-menu {
+    display: block;
+}
+
+
+.share-link {
+    display: flex; 
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: left center;
+    padding-left: 30px; 
+}
+
+.share-link:hover {
+    background-color: gray;
+    border-radius: 4px;
+}
+
+
+.facebook {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg');
+}
+
+.twitter {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQxcOs0dhzlAgMtt-d6nZo25UJxtXvBvdfw&s');
+}
+
+.linkedin {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkl8xST5A5M_wbQ3KllH2Hp1F4rwYurFGleA&s');
+}
+
+.google {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg');
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 992px) {
+    body {
+        font-size: 14px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .product-card {
+        width: 45%; 
+    }
+
+    .progress-container {
+        margin: 15px 0;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        padding: 5px 10px;
+        align-items: center;
+    }
+
+    .product-card {
+        width: 80%; 
+        font-size: 14px;
+    }
+
+    .sidebar {
+        width: 70%; 
+    }
+
+    .share-container {
+        bottom: 15px;
+        right: 10px;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .header h1 {
+        font-size: 18px;
+    }
+
+    .navbar {
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+
+    .navbar a {
+        padding: 5px 10px;
+    }
+
+    .product-card {
+        width: 100%; /* Карточки занимают всю ширину */
+        font-size: 12px;
+    }
+
+    .progress-container {
+        height: 4px;
+    }
+
+    .sidebar {
+        width: 60%; /* Боковая панель меньше */
+    }
+
+    .share-container {
+        bottom: 10px;
+        right: 5px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+    .sidebar-button {
+        font-size: 18px;
+        padding: 5px;
+    }
+}
+.share-container {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.share-btn {
+    background-color: #00bcd4;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.share-icon {
+    color: white;
+    font-size: 20px;
+}
+
+.share-menu {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    z-index: 10;
+}
+
+.share-menu .share-link {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    padding: 5px 10px;
+    width: 100%;
+    text-align: center;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.share-menu .share-link:hover {
+    background-color: #f0f0f0;
+}
+
+.share-container:hover .share-menu {
+    display: flex;
+}
